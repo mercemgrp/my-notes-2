@@ -1,11 +1,12 @@
 {
-  "name": "tabs-ionic-standalone",
+  "name": "my-notes",
   "version": "0.0.1",
-  "author": "Ionic Framework",
-  "homepage": "https://ionicframework.com/",
+  "author": "Mercedes Martín Gabriel",
+  "homepage": "https://github.com/mercemgrp/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
+    "start-o": "ng serve -o",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
